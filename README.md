@@ -1,4 +1,4 @@
-# Missing Value Imputation Using Machine Learning Models
+# Machine Learning for Predicting Agricultural and Wireless Communication Parameters in a Wireless Sensor Network
 
 ## Overview
 This repository contains the Jupyter Notebook and supporting files for my research on machine learning approaches for imputing missing values in datasets. The goal of the project is to evaluate different models and determine which ones can reconstruct missing entries with high accuracy.
