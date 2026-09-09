@@ -250,23 +250,8 @@ The main findings of the research are:
 
 * Matplotlib
 
----
 
-# Repository Structure
 
-```text
-├── data/
-│   ├── dataset_1/
-│   └── dataset_2/
-│
-├── notebooks/
-│   └── research_notebook.ipynb
-│
-├── README.md
-└── ...
-```
-
-> The exact file and folder names may differ depending on the current version of the repository.
 
 ---
 
