@@ -386,8 +386,6 @@ Research interests include:
 
 ---
 
----
-
 ## Acknowledgements
 
 This repository contains computational work associated with my research on machine learning approaches for missing-value imputation in Wireless Sensor Networks and their potential application to precision agriculture.
