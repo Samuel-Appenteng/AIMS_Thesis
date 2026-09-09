@@ -386,16 +386,6 @@ Research interests include:
 
 ---
 
-# Citation
-
-If you use the code or research presented in this repository, please cite the corresponding thesis or publication:
-
-```text
-Appenteng, Samuel.
-Machine Learning for Predicting Agricultural and Wireless Communication
-Parameters in a Wireless Sensor Network.
-```
-
 ---
 
 ## Acknowledgements
