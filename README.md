@@ -188,7 +188,7 @@ The performance of the four imputation approaches was compared using MAE, MSE, a
 **Insert your overall model-comparison chart here, if you have one.**
 
 ```text
-![chart]("data\final_grade_score.png")
+![chart]("data/final_grade_score.png")
 ```
 
 *Figure 3: Overall comparison of the four imputation approaches.*
