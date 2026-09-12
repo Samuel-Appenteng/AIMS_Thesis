@@ -159,12 +159,6 @@ The coefficient of determination measures how well the imputed values correspond
 
 The performance of the four imputation approaches was compared using MAE, MSE, and R² across the two datasets.
 
-## Dataset 1
-
-
-
-
-
 ---
 
 ## Overall Model Comparison
