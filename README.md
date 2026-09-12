@@ -161,37 +161,18 @@ The performance of the four imputation approaches was compared using MAE, MSE, a
 
 ## Dataset 1
 
-**Insert your Dataset 1 model-comparison chart here.**
 
-```text
-[ INSERT DATASET 1 MODEL COMPARISON CHART ]
-```
 
-*Figure 1: Performance comparison of the four imputation approaches on Dataset 1.*
 
----
-
-## Dataset 2
-
-**Insert your Dataset 2 model-comparison chart here.**
-
-```text
-[ INSERT DATASET 2 MODEL COMPARISON CHART ]
-```
-
-*Figure 2: Performance comparison of the four imputation approaches on Dataset 2.*
 
 ---
 
 ## Overall Model Comparison
 
-**Insert your overall model-comparison chart here, if you have one.**
 
-```text
-![chart](data/final_grade_score.png)
-```
+![Final Grade Scores](data/final_grade_score.png)
 
-*Figure 3: Overall comparison of the four imputation approaches.*
+Figure 1: Overall comparison of the four imputation approaches.*
 
 ---
 
